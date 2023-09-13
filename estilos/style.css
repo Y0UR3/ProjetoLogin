@@ -138,7 +138,7 @@ form > a:hover{
     font-size: 1em;
     
     width: calc(100% - 44px);
-    transform: translate3d(43px, -40px, 0px);
+    transform: translate(43px, -40px);
     height: 90%;
 
     outline: none;
