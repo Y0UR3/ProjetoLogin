@@ -140,7 +140,7 @@ form > a:hover{
     width: calc(100% - 44px);
     transform: translate(43px, -40px);
     height: 90%;
-
+        /*NÃO TA CENTRALIZANDO NO CELULAR*/
     outline: none;
     border: 0px;
     border-radius: 8px;
